@@ -1,0 +1,2 @@
+[all]
+host1 ansible_host=192.168.8.194 ansible_user=vboxuser
